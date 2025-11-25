@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>
+<title>
         Мой статический сайт
-    </title>
+</title>
 </head>
 <body>
     <h1>Добро пожаловать на мой сайт!</h1>
